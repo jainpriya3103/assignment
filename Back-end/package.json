@@ -1,0 +1,16 @@
+{
+  "name": "exioms_test_cms_apis",
+  "version": "1.0.0",
+  "description": "APIs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "mssql": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
